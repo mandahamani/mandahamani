@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on creating projects to strengthen my skills.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ... www.linkedin.com/in/mandahamani
+- ✨ Data Visualisation Portfolio... https://public.tableau.com/app/profile/mandahamani
 
 
 
